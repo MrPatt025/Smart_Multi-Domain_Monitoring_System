@@ -1,0 +1,11 @@
+flask
+scikit-learn
+numpy
+pyjwt
+paho-mqtt
+redis
+fastapi
+uvicorn
+tensorflow
+pytest
+python-dotenv
